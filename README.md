@@ -38,8 +38,8 @@ Just drop it onto any PHP‑enabled web host ⟶ open the page ⟶ start uploadi
 1. **Clone or copy** the repository (it is literally one file):
 
    ```bash
-   git clone https://github.com/HirotakaDango/anonphotoshare.git
-   cd anonphotoshare
+   git clone https://github.com/HirotakaDango/AnonPhotoShare.git
+   cd AnonPhotoShare
    ```
 
 2. **Ensure PHP 8.0+** (with the **GD** extension enabled) is available.
