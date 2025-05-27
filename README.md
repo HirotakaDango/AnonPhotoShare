@@ -1,5 +1,7 @@
 # AnonPhotoShare
 
+![Screenshot from 2025-05-27 14-06-48](https://github.com/user-attachments/assets/5da2488c-4a8e-439e-aa47-982254e3e65b)
+
 AnonPhotoShare is a **single‑file PHP application** that lets you and your friends share images anonymously without needing a database or any third‑party services.  
 Just drop it onto any PHP‑enabled web host ⟶ open the page ⟶ start uploading.
 
